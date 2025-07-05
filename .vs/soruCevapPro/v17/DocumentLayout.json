@@ -1,74 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\",
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Documents\\GitHub\\soruCevap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\soruekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|solutionrelative:sorucevappro\\soruekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SoruEkle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\sinavstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|solutionrelative:sorucevappro\\sinavstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\sonuclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\sinavyap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|solutionrelative:sorucevappro\\sinavyap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavYap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\sinavyap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|solutionrelative:sorucevappro\\sinavyap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\sinavyap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\sonuclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|solutionrelative:sorucevappro\\sonuclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavStart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\sonuclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|solutionrelative:sorucevappro\\sonuclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\sinavstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|c:\\users\\hp\\downloads\\downloads\\sorucevappro\\sorucevappro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|solutionrelative:sorucevappro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|solutionrelative:sorucevappro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\sinavstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|solutionrelative:sorucevappro\\sinavstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\sorular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|solutionrelative:sorucevappro\\sorular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Sonuclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\sorular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|solutionrelative:sorucevappro\\sorular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\soruekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\soruekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|solutionrelative:sorucevappro\\soruekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\sorular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|solutionrelative:sorucevappro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Sorular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\kisiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|solutionrelative:sorucevappro\\kisiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Kisiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\kisiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|solutionrelative:sorucevappro\\kisiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\kisiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\kisiekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|solutionrelative:sorucevappro\\kisiekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\KisiEkle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\kisiekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD356AB4-C8E1-4A82-8C95-BC4D7A25DCEA}|soruCevapPro\\soruCevapPro.csproj|solutionrelative:sorucevappro\\kisiekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\sorucevappro\\kisiekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,74 +73,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Sonuclar.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Sonuclar.cs",
-              "RelativeDocumentMoniker": "soruCevapPro\\Sonuclar.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Sonuclar.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Sonuclar.cs [Design]",
-              "RelativeToolTip": "soruCevapPro\\Sonuclar.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Sonuclar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T17:06:12.167Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SinavYap.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavYap.cs",
-              "RelativeDocumentMoniker": "soruCevapPro\\SinavYap.cs",
-              "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavYap.cs",
-              "RelativeToolTip": "soruCevapPro\\SinavYap.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T17:06:12.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T17:06:12.167Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "SinavYap.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavYap.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavYap.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavYap.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavYap.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T17:06:12.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SinavYap.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavYap.cs",
-              "RelativeDocumentMoniker": "soruCevapPro\\SinavYap.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavYap.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavYap.cs [Design]",
-              "RelativeToolTip": "soruCevapPro\\SinavYap.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavYap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T17:06:12.168Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-30T17:06:12.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "SinavStart.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavStart.cs",
-              "RelativeDocumentMoniker": "soruCevapPro\\SinavStart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavStart.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavStart.cs",
-              "RelativeToolTip": "soruCevapPro\\SinavStart.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIgAAAAAAAAA",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavStart.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T17:06:12.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T17:06:12.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "SinavStart.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavStart.cs",
-              "RelativeDocumentMoniker": "soruCevapPro\\SinavStart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavStart.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavStart.cs [Design]",
-              "RelativeToolTip": "soruCevapPro\\SinavStart.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SinavStart.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T17:06:12.169Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-30T17:06:12.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Program.cs",
-              "RelativeDocumentMoniker": "soruCevapPro\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Program.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Program.cs",
-              "RelativeToolTip": "soruCevapPro\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T17:06:12.169Z"
@@ -167,84 +143,78 @@
               "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Form1.cs",
-              "RelativeDocumentMoniker": "soruCevapPro\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Form1.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Form1.cs [Design]",
-              "RelativeToolTip": "soruCevapPro\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T17:06:12.17Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-30T17:06:12.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Form1.cs",
-              "RelativeDocumentMoniker": "soruCevapPro\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Form1.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Form1.cs",
-              "RelativeToolTip": "soruCevapPro\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Form1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T17:06:12.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T17:06:12.339Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SoruEkle.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SoruEkle.cs",
-              "RelativeDocumentMoniker": "soruCevapPro\\SoruEkle.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SoruEkle.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SoruEkle.cs",
-              "RelativeToolTip": "soruCevapPro\\SoruEkle.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAiwC0AAAAQAAAA",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SoruEkle.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T17:06:12.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T17:06:12.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Sonuclar.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Sonuclar.cs",
-              "RelativeDocumentMoniker": "soruCevapPro\\Sonuclar.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Sonuclar.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Sonuclar.cs",
-              "RelativeToolTip": "soruCevapPro\\Sonuclar.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Sonuclar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T17:06:12.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SoruEkle.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SoruEkle.cs",
-              "RelativeDocumentMoniker": "soruCevapPro\\SoruEkle.cs",
-              "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SoruEkle.cs [Design]",
-              "RelativeToolTip": "soruCevapPro\\SoruEkle.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T17:06:12.163Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-30T17:06:12.166Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "SoruEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SoruEkle.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SoruEkle.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SoruEkle.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\SoruEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T17:06:12.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Sorular.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Sorular.cs",
-              "RelativeDocumentMoniker": "soruCevapPro\\Sorular.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Sorular.cs",
               "ToolTip": "D:\\CSHARP\\soruCevapPro\\soruCevapPro\\Sorular.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
               "WhenOpened": "2025-06-30T17:06:12.459Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Sorular.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Sorular.cs",
-              "RelativeDocumentMoniker": "soruCevapPro\\Sorular.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Sorular.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Sorular.cs",
-              "RelativeToolTip": "soruCevapPro\\Sorular.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Sorular.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAADgvxYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T17:06:12.46Z"
             },
             {
@@ -252,11 +222,10 @@
               "DocumentIndex": 13,
               "Title": "Kisiler.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Kisiler.cs",
-              "RelativeDocumentMoniker": "soruCevapPro\\Kisiler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Kisiler.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Kisiler.cs",
-              "RelativeToolTip": "soruCevapPro\\Kisiler.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAADgvxcAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Kisiler.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T17:06:12.46Z"
             },
             {
@@ -264,7 +233,7 @@
               "DocumentIndex": 14,
               "Title": "Kisiler.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Kisiler.cs",
-              "RelativeDocumentMoniker": "soruCevapPro\\Kisiler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\Kisiler.cs",
               "ToolTip": "D:\\CSHARP\\soruCevapPro\\soruCevapPro\\Kisiler.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
               "WhenOpened": "2025-06-30T17:06:12.461Z"
@@ -274,11 +243,10 @@
               "DocumentIndex": 15,
               "Title": "KisiEkle.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\KisiEkle.cs",
-              "RelativeDocumentMoniker": "soruCevapPro\\KisiEkle.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\KisiEkle.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\KisiEkle.cs",
-              "RelativeToolTip": "soruCevapPro\\KisiEkle.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAADgvxYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\KisiEkle.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T17:06:12.462Z"
             },
             {
@@ -286,7 +254,7 @@
               "DocumentIndex": 16,
               "Title": "KisiEkle.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\KisiEkle.cs",
-              "RelativeDocumentMoniker": "soruCevapPro\\KisiEkle.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\soruCevapPro\\soruCevapPro\\KisiEkle.cs",
               "ToolTip": "D:\\CSHARP\\soruCevapPro\\soruCevapPro\\KisiEkle.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
               "WhenOpened": "2025-06-30T17:06:12.462Z"
